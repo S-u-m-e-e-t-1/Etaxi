@@ -1,0 +1,23 @@
+# Ignore all files inside libs/razorpay and libs/smtp except for .gitkeep
+/libs/razorpay/*
+!/libs/razorpay/.gitkeep
+
+/libs/smtp/*
+!/libs/smtp/.gitkeep
+
+# Ignore all files inside assets/gallery and assets/images except for .gitkeep
+/assets/gallery/*
+!/assets/gallery/.gitkeep
+
+/assets/images/*
+!/assets/images/.gitkeep
+
+# Other common ignores
+/vendor/
+.env
+*.log
+*.tmp
+*.bak
+node_modules/
+.DS_Store
+Thumbs.db
