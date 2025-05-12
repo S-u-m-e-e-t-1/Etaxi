@@ -91,7 +91,7 @@ session_start();
     </div>
 
     <script async defer
-        src="https://maps.gomaps.pro/maps/api/js?key=AlzaSy2GaNLYt3hp7INqvzs8h3HdVlne9wai_cr&libraries=geometry,places&callback=initMap">
+        src="https://maps.gomaps.pro/maps/api/js?key={apikey}&libraries=geometry,places&callback=initMap">
     </script>
 
 
